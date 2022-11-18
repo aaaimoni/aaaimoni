@@ -4,14 +4,15 @@ from tkinter import *
 
 
 class Main(Frame):
-    def __init__(self, root):
-        super(Main, self).__init__(root)
+    def __init__(self, root,yourself):
+        super(Main, self ).__init__(root)
         self.build()
 
     def build(self):
         pass
+        "ADD"=YORSELF+SISTEMA
  
-    def logicalc(self, operation):
+    def logicalc(self, operation,sistema):
         pass
 
     def update():
